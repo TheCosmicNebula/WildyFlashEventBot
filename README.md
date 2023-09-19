@@ -31,6 +31,9 @@ Once you have a Discord Bot Application setup follow the below instructions to s
 
 Once you have added the Bot to your server, you can input !commands into the chosen commands channel to see a list of the available commands.
 
+Once the Bot is running, you will need to use the !sync command in order to get the Bot in sync with the Game. To use this command, type !sync and then enter the times of each event as per the [Wiki](https://runescape.wiki/w/Wilderness_Flash_Events)
+- !sync 0 1 2 3 4 5 6 7 8 9 22 23 24
+
 ### Finally, to run the bot:
 - Windows
   - Use the run.bat file to run the bot.
