@@ -1,0 +1,24 @@
+[
+  {
+    "admin_role_id": "",
+    "ping_role_id": "",
+    "bot_member_id": "",
+    "server_id": ""
+  },
+  {
+    "announce_id": "",
+    "commands_id": ""
+  },
+  {"command_prefix": "!"},
+  {
+    "activity_type": 3,
+    "activity_desc": "Wilderness Flash Events"
+  },
+  {"timer_interval_mins": 1},
+  {
+    "pretick": true,
+    "scheduled_event": "evil bloodwood tree"
+  },
+  {"print_perms": true},
+  {"bot_owner": ""}
+]
